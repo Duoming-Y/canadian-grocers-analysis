@@ -1,0 +1,343 @@
+company,fiscal_year,statement,line_item_as_reported,amount,source_document,pdf_page,column
+Loblaw,2025,IS,Revenue,63903,LCL_2025_AR.pdf,102,current
+Loblaw,2024,IS,Revenue,60123,LCL_2025_AR.pdf,102,comparative
+Loblaw,2025,IS,Cost of sales,43871,LCL_2025_AR.pdf,102,current
+Loblaw,2024,IS,Cost of sales,41288,LCL_2025_AR.pdf,102,comparative
+Loblaw,2025,IS,Net interest expense and other financing charges,742,LCL_2025_AR.pdf,102,current
+Loblaw,2024,IS,Net interest expense and other financing charges,683,LCL_2025_AR.pdf,102,comparative
+Loblaw,2025,IS,Earnings before income taxes,3682,LCL_2025_AR.pdf,102,current
+Loblaw,2024,IS,Earnings before income taxes,2791,LCL_2025_AR.pdf,102,comparative
+Loblaw,2025,IS,Income taxes,1080,LCL_2025_AR.pdf,102,current
+Loblaw,2024,IS,Income taxes,731,LCL_2025_AR.pdf,102,comparative
+Loblaw,2025,IS,Net earnings from discontinued operations,136,LCL_2025_AR.pdf,102,current
+Loblaw,2024,IS,Net earnings from discontinued operations,215,LCL_2025_AR.pdf,102,comparative
+Loblaw,2025,IS,Net earnings,2738,LCL_2025_AR.pdf,102,current
+Loblaw,2024,IS,Net earnings,2275,LCL_2025_AR.pdf,102,comparative
+Loblaw,2025,IS,Shareholders of the Company,2667,LCL_2025_AR.pdf,102,current
+Loblaw,2024,IS,Shareholders of the Company,2171,LCL_2025_AR.pdf,102,comparative
+Loblaw,2025,BS,Inventories,6491,LCL_2025_AR.pdf,105,current
+Loblaw,2024,BS,Inventories,6330,LCL_2025_AR.pdf,105,comparative
+Loblaw,2025,BS,Total current assets,14928,LCL_2025_AR.pdf,105,current
+Loblaw,2024,BS,Total current assets,14548,LCL_2025_AR.pdf,105,comparative
+Loblaw,2025,BS,Total assets,41577,LCL_2025_AR.pdf,105,current
+Loblaw,2024,BS,Total assets,40880,LCL_2025_AR.pdf,105,comparative
+Loblaw,2025,BS,Total current liabilities,13870,LCL_2025_AR.pdf,105,current
+Loblaw,2024,BS,Total current liabilities,11768,LCL_2025_AR.pdf,105,comparative
+Loblaw,2025,BS,Total liabilities,30385,LCL_2025_AR.pdf,105,current
+Loblaw,2024,BS,Total liabilities,29614,LCL_2025_AR.pdf,105,comparative
+Loblaw,2025,BS,Total equity,11192,LCL_2025_AR.pdf,105,current
+Loblaw,2024,BS,Total equity,11266,LCL_2025_AR.pdf,105,comparative
+Loblaw,2025,BS,Total equity attributable to shareholders of the Company,11028,LCL_2025_AR.pdf,105,current
+Loblaw,2024,BS,Total equity attributable to shareholders of the Company,11091,LCL_2025_AR.pdf,105,comparative
+Loblaw,2025,CF,Cash flows from operating activities,6264,LCL_2025_AR.pdf,106,current
+Loblaw,2024,CF,Cash flows from operating activities,5802,LCL_2025_AR.pdf,106,comparative
+Loblaw,2025,CF,Fixed asset purchases,1712,LCL_2025_AR.pdf,106,current
+Loblaw,2024,CF,Fixed asset purchases,1823,LCL_2025_AR.pdf,106,comparative
+Loblaw,2025,CF,Intangible asset additions,350,LCL_2025_AR.pdf,106,current
+Loblaw,2024,CF,Intangible asset additions,377,LCL_2025_AR.pdf,106,comparative
+Loblaw,2025,CF,Cash rent paid on lease liabilities - Principal,1255,LCL_2025_AR.pdf,106,current
+Loblaw,2024,CF,Cash rent paid on lease liabilities - Principal,1086,LCL_2025_AR.pdf,106,comparative
+Loblaw,2023,IS,Revenue,59529,LCL_2023_AR.pdf,93,current
+Loblaw,2022,IS,Revenue,56504,LCL_2023_AR.pdf,93,comparative
+Loblaw,2023,IS,Cost of sales,40492,LCL_2023_AR.pdf,93,current
+Loblaw,2022,IS,Cost of sales,38528,LCL_2023_AR.pdf,93,comparative
+Loblaw,2023,IS,Net interest expense and other financing charges,803,LCL_2023_AR.pdf,93,current
+Loblaw,2022,IS,Net interest expense and other financing charges,683,LCL_2023_AR.pdf,93,comparative
+Loblaw,2023,IS,Earnings before income taxes,2901,LCL_2023_AR.pdf,93,current
+Loblaw,2022,IS,Earnings before income taxes,2659,LCL_2023_AR.pdf,93,comparative
+Loblaw,2023,IS,Income taxes,714,LCL_2023_AR.pdf,93,current
+Loblaw,2022,IS,Income taxes,665,LCL_2023_AR.pdf,93,comparative
+Loblaw,2023,IS,No discontinued operations,0,LCL_2023_AR.pdf,93,current
+Loblaw,2022,IS,No discontinued operations,0,LCL_2023_AR.pdf,93,comparative
+Loblaw,2023,IS,Net earnings,2187,LCL_2023_AR.pdf,93,current
+Loblaw,2022,IS,Net earnings,1994,LCL_2023_AR.pdf,93,comparative
+Loblaw,2023,IS,Shareholders of the Company,2100,LCL_2023_AR.pdf,93,current
+Loblaw,2022,IS,Shareholders of the Company,1921,LCL_2023_AR.pdf,93,comparative
+Loblaw,2023,BS,Inventories,5820,LCL_2023_AR.pdf,96,current
+Loblaw,2022,BS,Inventories,5855,LCL_2023_AR.pdf,96,comparative
+Loblaw,2023,BS,Total current assets,13578,LCL_2023_AR.pdf,96,current
+Loblaw,2022,BS,Total current assets,13376,LCL_2023_AR.pdf,96,comparative
+Loblaw,2023,BS,Total assets,38979,LCL_2023_AR.pdf,96,current
+Loblaw,2022,BS,Total assets,38147,LCL_2023_AR.pdf,96,comparative
+Loblaw,2023,BS,Total current liabilities,10847,LCL_2023_AR.pdf,96,current
+Loblaw,2022,BS,Total current liabilities,10098,LCL_2023_AR.pdf,96,comparative
+Loblaw,2023,BS,Total liabilities,27360,LCL_2023_AR.pdf,96,current
+Loblaw,2022,BS,Total liabilities,26691,LCL_2023_AR.pdf,96,comparative
+Loblaw,2023,BS,Total equity,11619,LCL_2023_AR.pdf,96,current
+Loblaw,2022,BS,Total equity,11456,LCL_2023_AR.pdf,96,comparative
+Loblaw,2023,BS,Total equity attributable to shareholders of the Company,11464,LCL_2023_AR.pdf,96,current
+Loblaw,2022,BS,Total equity attributable to shareholders of the Company,11299,LCL_2023_AR.pdf,96,comparative
+Loblaw,2023,CF,Cash flows from operating activities,5654,LCL_2023_AR.pdf,97,current
+Loblaw,2022,CF,Cash flows from operating activities,4755,LCL_2023_AR.pdf,97,comparative
+Loblaw,2023,CF,Fixed asset purchases,1665,LCL_2023_AR.pdf,97,current
+Loblaw,2022,CF,Fixed asset purchases,1152,LCL_2023_AR.pdf,97,comparative
+Loblaw,2023,CF,Intangible asset additions,407,LCL_2023_AR.pdf,97,current
+Loblaw,2022,CF,Intangible asset additions,419,LCL_2023_AR.pdf,97,comparative
+Loblaw,2023,CF,Cash rent paid on lease liabilities - Principal,1071,LCL_2023_AR.pdf,97,current
+Loblaw,2022,CF,Cash rent paid on lease liabilities - Principal,994,LCL_2023_AR.pdf,97,comparative
+Loblaw,2021,IS,Revenue,53170,LCL_2021_AR.pdf,100,current
+Loblaw,2020,IS,Revenue,52714,LCL_2021_AR.pdf,100,comparative
+Loblaw,2021,IS,Cost of merchandise inventories sold,36436,LCL_2021_AR.pdf,100,current
+Loblaw,2020,IS,Cost of merchandise inventories sold,36725,LCL_2021_AR.pdf,100,comparative
+Loblaw,2021,IS,Net interest expense and other financing charges,495,LCL_2021_AR.pdf,100,current
+Loblaw,2020,IS,Net interest expense and other financing charges,742,LCL_2021_AR.pdf,100,comparative
+Loblaw,2021,IS,Earnings before income taxes,2442,LCL_2021_AR.pdf,100,current
+Loblaw,2020,IS,Earnings before income taxes,1623,LCL_2021_AR.pdf,100,comparative
+Loblaw,2021,IS,Income taxes,466,LCL_2021_AR.pdf,100,current
+Loblaw,2020,IS,Income taxes,431,LCL_2021_AR.pdf,100,comparative
+Loblaw,2021,IS,No discontinued operations,0,LCL_2021_AR.pdf,100,current
+Loblaw,2020,IS,No discontinued operations,0,LCL_2021_AR.pdf,100,comparative
+Loblaw,2021,IS,Net earnings,1976,LCL_2021_AR.pdf,100,current
+Loblaw,2020,IS,Net earnings,1192,LCL_2021_AR.pdf,100,comparative
+Loblaw,2021,IS,Shareholders of the Company,1875,LCL_2021_AR.pdf,100,current
+Loblaw,2020,IS,Shareholders of the Company,1108,LCL_2021_AR.pdf,100,comparative
+Loblaw,2021,BS,Inventories,5166,LCL_2021_AR.pdf,103,current
+Loblaw,2020,BS,Inventories,5195,LCL_2021_AR.pdf,103,comparative
+Loblaw,2021,BS,Total current assets,12637,LCL_2021_AR.pdf,103,current
+Loblaw,2020,BS,Total current assets,11542,LCL_2021_AR.pdf,103,comparative
+Loblaw,2021,BS,Total assets,36614,LCL_2021_AR.pdf,103,current
+Loblaw,2020,BS,Total assets,35873,LCL_2021_AR.pdf,103,comparative
+Loblaw,2021,BS,Total current liabilities,9196,LCL_2021_AR.pdf,103,current
+Loblaw,2020,BS,Total current liabilities,8763,LCL_2021_AR.pdf,103,comparative
+Loblaw,2021,BS,Total liabilities,24877,LCL_2021_AR.pdf,103,current
+Loblaw,2020,BS,Total liabilities,24754,LCL_2021_AR.pdf,103,comparative
+Loblaw,2021,BS,Total equity,11737,LCL_2021_AR.pdf,103,current
+Loblaw,2020,BS,Total equity,11119,LCL_2021_AR.pdf,103,comparative
+Loblaw,2021,BS,Total equity attributable to shareholders of the Company,11573,LCL_2021_AR.pdf,103,current
+Loblaw,2020,BS,Total equity attributable to shareholders of the Company,10988,LCL_2021_AR.pdf,103,comparative
+Loblaw,2021,CF,Cash flows from operating activities,4827,LCL_2021_AR.pdf,104,current
+Loblaw,2020,CF,Cash flows from operating activities,5191,LCL_2021_AR.pdf,104,comparative
+Loblaw,2021,CF,Fixed asset purchases,803,LCL_2021_AR.pdf,104,current
+Loblaw,2020,CF,Fixed asset purchases,820,LCL_2021_AR.pdf,104,comparative
+Loblaw,2021,CF,Intangible asset additions,379,LCL_2021_AR.pdf,104,current
+Loblaw,2020,CF,Intangible asset additions,338,LCL_2021_AR.pdf,104,comparative
+Loblaw,2021,CF,Cash rent paid on lease liabilities - Principal,1020,LCL_2021_AR.pdf,104,current
+Loblaw,2020,CF,Cash rent paid on lease liabilities - Principal,1024,LCL_2021_AR.pdf,104,comparative
+Metro,2025,IS,Sales,22006.7,metro_2025_AR.pdf,47,current
+Metro,2024,IS,Sales,21219.9,metro_2025_AR.pdf,47,comparative
+Metro,2025,IS,Cost of sales,17636.4,metro_2025_AR.pdf,47,current
+Metro,2024,IS,Cost of sales,17040.6,metro_2025_AR.pdf,47,comparative
+Metro,2025,IS,Net financial costs,143.8,metro_2025_AR.pdf,47,current
+Metro,2024,IS,Net financial costs,145.7,metro_2025_AR.pdf,47,comparative
+Metro,2025,IS,Earnings before income taxes,1320.2,metro_2025_AR.pdf,47,current
+Metro,2024,IS,Earnings before income taxes,1250.1,metro_2025_AR.pdf,47,comparative
+Metro,2025,IS,Income taxes,300.7,metro_2025_AR.pdf,47,current
+Metro,2024,IS,Income taxes,318.4,metro_2025_AR.pdf,47,comparative
+Metro,2025,IS,No discontinued operations,0,metro_2025_AR.pdf,47,current
+Metro,2024,IS,No discontinued operations,0,metro_2025_AR.pdf,47,comparative
+Metro,2025,IS,Net earnings,1019.5,metro_2025_AR.pdf,47,current
+Metro,2024,IS,Net earnings,931.7,metro_2025_AR.pdf,47,comparative
+Metro,2025,IS,Equity holders of the parent,1017.0,metro_2025_AR.pdf,47,current
+Metro,2024,IS,Equity holders of the parent,928.8,metro_2025_AR.pdf,47,comparative
+Metro,2025,BS,Inventories,1604.3,metro_2025_AR.pdf,49,current
+Metro,2024,BS,Inventories,1508.3,metro_2025_AR.pdf,49,comparative
+Metro,2025,BS,Current assets (unlabelled subtotal),2661.0,metro_2025_AR.pdf,49,current
+Metro,2024,BS,Current assets (unlabelled subtotal),2474.0,metro_2025_AR.pdf,49,comparative
+Metro,2025,BS,Total assets (unlabelled subtotal),14539.4,metro_2025_AR.pdf,49,current
+Metro,2024,BS,Total assets (unlabelled subtotal),14140.6,metro_2025_AR.pdf,49,comparative
+Metro,2025,BS,Current liabilities (unlabelled subtotal),2053.8,metro_2025_AR.pdf,49,current
+Metro,2024,BS,Current liabilities (unlabelled subtotal),2285.6,metro_2025_AR.pdf,49,comparative
+Metro,2025,BS,Total liabilities (unlabelled subtotal),7494.3,metro_2025_AR.pdf,49,current
+Metro,2024,BS,Total liabilities (unlabelled subtotal),7101.7,metro_2025_AR.pdf,49,comparative
+Metro,2025,BS,Total equity (unlabelled subtotal),7045.1,metro_2025_AR.pdf,49,current
+Metro,2024,BS,Total equity (unlabelled subtotal),7038.9,metro_2025_AR.pdf,49,comparative
+Metro,2025,BS,Attributable to equity holders of the parent,7026.7,metro_2025_AR.pdf,49,current
+Metro,2024,BS,Attributable to equity holders of the parent,7021.7,metro_2025_AR.pdf,49,comparative
+Metro,2025,CF,Operating activities (unlabelled subtotal),1724.9,metro_2025_AR.pdf,51,current
+Metro,2024,CF,Operating activities (unlabelled subtotal),1677.0,metro_2025_AR.pdf,51,comparative
+Metro,2025,CF,Additions to fixed assets,452.5,metro_2025_AR.pdf,51,current
+Metro,2024,CF,Additions to fixed assets,499.0,metro_2025_AR.pdf,51,comparative
+Metro,2025,CF,Additions to intangible assets and goodwill,58.1,metro_2025_AR.pdf,51,current
+Metro,2024,CF,Additions to intangible assets and goodwill,80.7,metro_2025_AR.pdf,51,comparative
+Metro,2025,CF,Payment of lease liabilities (principal),281.7,metro_2025_AR.pdf,51,current
+Metro,2024,CF,Payment of lease liabilities (principal),267.8,metro_2025_AR.pdf,51,comparative
+Metro,2023,IS,Sales,20724.6,metro_2023_AR.pdf,45,current
+Metro,2022,IS,Sales,18888.9,metro_2023_AR.pdf,45,comparative
+Metro,2023,IS,Cost of sales,16642.4,metro_2023_AR.pdf,45,current
+Metro,2022,IS,Cost of sales,15105.6,metro_2023_AR.pdf,45,comparative
+Metro,2023,IS,Net financial costs,122.6,metro_2023_AR.pdf,45,current
+Metro,2022,IS,Net financial costs,117.6,metro_2023_AR.pdf,45,comparative
+Metro,2023,IS,Earnings before income taxes,1321.8,metro_2023_AR.pdf,45,current
+Metro,2022,IS,Earnings before income taxes,1153.6,metro_2023_AR.pdf,45,comparative
+Metro,2023,IS,Income taxes,303.0,metro_2023_AR.pdf,45,current
+Metro,2022,IS,Income taxes,304.1,metro_2023_AR.pdf,45,comparative
+Metro,2023,IS,No discontinued operations,0,metro_2023_AR.pdf,45,current
+Metro,2022,IS,No discontinued operations,0,metro_2023_AR.pdf,45,comparative
+Metro,2023,IS,Net earnings,1018.8,metro_2023_AR.pdf,45,current
+Metro,2022,IS,Net earnings,849.5,metro_2023_AR.pdf,45,comparative
+Metro,2023,IS,Equity holders of the parent,1014.8,metro_2023_AR.pdf,45,current
+Metro,2022,IS,Equity holders of the parent,846.1,metro_2023_AR.pdf,45,comparative
+Metro,2023,BS,Inventories,1451.0,metro_2023_AR.pdf,47,current
+Metro,2022,BS,Inventories,1331.1,metro_2023_AR.pdf,47,comparative
+Metro,2023,BS,Current assets (unlabelled subtotal),2403.6,metro_2023_AR.pdf,47,current
+Metro,2022,BS,Current assets (unlabelled subtotal),2183.3,metro_2023_AR.pdf,47,comparative
+Metro,2023,BS,Total assets (unlabelled subtotal),13865.3,metro_2023_AR.pdf,47,current
+Metro,2022,BS,Total assets (unlabelled subtotal),13401.3,metro_2023_AR.pdf,47,comparative
+Metro,2023,BS,Current liabilities (unlabelled subtotal),1960.8,metro_2023_AR.pdf,47,current
+Metro,2022,BS,Current liabilities (unlabelled subtotal),1952.5,metro_2023_AR.pdf,47,comparative
+Metro,2023,BS,Total liabilities (unlabelled subtotal),7049.0,metro_2023_AR.pdf,47,current
+Metro,2022,BS,Total liabilities (unlabelled subtotal),6782.9,metro_2023_AR.pdf,47,comparative
+Metro,2023,BS,Total equity (unlabelled subtotal),6816.3,metro_2023_AR.pdf,47,current
+Metro,2022,BS,Total equity (unlabelled subtotal),6618.4,metro_2023_AR.pdf,47,comparative
+Metro,2023,BS,Attributable to equity holders of the parent,6801.2,metro_2023_AR.pdf,47,current
+Metro,2022,BS,Attributable to equity holders of the parent,6604.5,metro_2023_AR.pdf,47,comparative
+Metro,2023,CF,Operating activities (unlabelled subtotal),1563.5,metro_2023_AR.pdf,49,current
+Metro,2022,CF,Operating activities (unlabelled subtotal),1461.4,metro_2023_AR.pdf,49,comparative
+Metro,2023,CF,Additions to fixed assets,597.2,metro_2023_AR.pdf,49,current
+Metro,2022,CF,Additions to fixed assets,522.8,metro_2023_AR.pdf,49,comparative
+Metro,2023,CF,Additions to intangible assets,82.7,metro_2023_AR.pdf,49,current
+Metro,2022,CF,Additions to intangible assets,98.2,metro_2023_AR.pdf,49,comparative
+Metro,2023,CF,Payment of lease liabilities (principal),269.1,metro_2023_AR.pdf,49,current
+Metro,2022,CF,Payment of lease liabilities (principal),268.0,metro_2023_AR.pdf,49,comparative
+Metro,2021,IS,Sales,18283.0,metro_2021_AR.pdf,43,current
+Metro,2020,IS,Sales,17997.5,metro_2021_AR.pdf,43,comparative
+Metro,2021,IS,Cost of sales (note 4),14628.2,metro_2021_AR.pdf,56,current
+Metro,2020,IS,Cost of sales (note 4),14415.7,metro_2021_AR.pdf,56,comparative
+Metro,2021,IS,"Financial costs, net",133.5,metro_2021_AR.pdf,43,current
+Metro,2020,IS,"Financial costs, net",136.8,metro_2021_AR.pdf,43,comparative
+Metro,2021,IS,Earnings before income taxes,1120.7,metro_2021_AR.pdf,43,current
+Metro,2020,IS,Earnings before income taxes,1084.3,metro_2021_AR.pdf,43,comparative
+Metro,2021,IS,Income taxes,295.0,metro_2021_AR.pdf,43,current
+Metro,2020,IS,Income taxes,287.9,metro_2021_AR.pdf,43,comparative
+Metro,2021,IS,No discontinued operations,0,metro_2021_AR.pdf,43,current
+Metro,2020,IS,No discontinued operations,0,metro_2021_AR.pdf,43,comparative
+Metro,2021,IS,Net earnings,825.7,metro_2021_AR.pdf,43,current
+Metro,2020,IS,Net earnings,796.4,metro_2021_AR.pdf,43,comparative
+Metro,2021,IS,Equity holders of the parent,823.0,metro_2021_AR.pdf,43,current
+Metro,2020,IS,Equity holders of the parent,795.2,metro_2021_AR.pdf,43,comparative
+Metro,2021,BS,Inventories,1169.0,metro_2021_AR.pdf,45,current
+Metro,2020,BS,Inventories,1268.2,metro_2021_AR.pdf,45,comparative
+Metro,2021,BS,Current assets (unlabelled subtotal),2466.8,metro_2021_AR.pdf,45,current
+Metro,2020,BS,Current assets (unlabelled subtotal),2500.5,metro_2021_AR.pdf,45,comparative
+Metro,2021,BS,Total assets (unlabelled subtotal),13592.1,metro_2021_AR.pdf,45,current
+Metro,2020,BS,Total assets (unlabelled subtotal),13423.9,metro_2021_AR.pdf,45,comparative
+Metro,2021,BS,Current liabilities (unlabelled subtotal),2198.2,metro_2021_AR.pdf,45,current
+Metro,2020,BS,Current liabilities (unlabelled subtotal),1860.1,metro_2021_AR.pdf,45,comparative
+Metro,2021,BS,Total liabilities (unlabelled subtotal),7179.3,metro_2021_AR.pdf,45,current
+Metro,2020,BS,Total liabilities (unlabelled subtotal),7268.5,metro_2021_AR.pdf,45,comparative
+Metro,2021,BS,Total equity (unlabelled subtotal),6412.8,metro_2021_AR.pdf,45,current
+Metro,2020,BS,Total equity (unlabelled subtotal),6155.4,metro_2021_AR.pdf,45,comparative
+Metro,2021,BS,Attributable to equity holders of the parent,6399.9,metro_2021_AR.pdf,45,current
+Metro,2020,BS,Attributable to equity holders of the parent,6142.2,metro_2021_AR.pdf,45,comparative
+Metro,2021,CF,Operating activities (unlabelled subtotal),1583.3,metro_2021_AR.pdf,47,current
+Metro,2020,CF,Operating activities (unlabelled subtotal),1474.1,metro_2021_AR.pdf,47,comparative
+Metro,2021,CF,Additions to fixed assets and investment properties,520.0,metro_2021_AR.pdf,47,current
+Metro,2020,CF,Additions to fixed assets and investment properties,463.3,metro_2021_AR.pdf,47,comparative
+Metro,2021,CF,Additions to intangible assets,79.3,metro_2021_AR.pdf,47,current
+Metro,2020,CF,Additions to intangible assets,47.4,metro_2021_AR.pdf,47,comparative
+Metro,2021,CF,Payment of lease liabilities (principal),260.9,metro_2021_AR.pdf,47,current
+Metro,2020,CF,Payment of lease liabilities (principal),252.9,metro_2021_AR.pdf,47,comparative
+Empire,2025,IS,Sales,31277,empire_2025_AR.pdf,56,current
+Empire,2024,IS,Sales,30733,empire_2025_AR.pdf,56,comparative
+Empire,2025,IS,Cost of sales,22895,empire_2025_AR.pdf,56,current
+Empire,2024,IS,Cost of sales,22662,empire_2025_AR.pdf,56,comparative
+Empire,2025,IS,"Finance costs, net",294,empire_2025_AR.pdf,56,current
+Empire,2024,IS,"Finance costs, net",282,empire_2025_AR.pdf,56,comparative
+Empire,2025,IS,Earnings before income taxes,995,empire_2025_AR.pdf,56,current
+Empire,2024,IS,Earnings before income taxes,1029,empire_2025_AR.pdf,56,comparative
+Empire,2025,IS,Income tax expense,249,empire_2025_AR.pdf,56,current
+Empire,2024,IS,Income tax expense,266,empire_2025_AR.pdf,56,comparative
+Empire,2025,IS,No discontinued operations,0,empire_2025_AR.pdf,56,current
+Empire,2024,IS,No discontinued operations,0,empire_2025_AR.pdf,56,comparative
+Empire,2025,IS,Net earnings,746,empire_2025_AR.pdf,56,current
+Empire,2024,IS,Net earnings,763,empire_2025_AR.pdf,56,comparative
+Empire,2025,IS,Owners of the Company,700,empire_2025_AR.pdf,56,current
+Empire,2024,IS,Owners of the Company,726,empire_2025_AR.pdf,56,comparative
+Empire,2025,BS,Inventories,1833,empire_2025_AR.pdf,55,current
+Empire,2024,BS,Inventories,1772,empire_2025_AR.pdf,55,comparative
+Empire,2025,BS,Total current assets,3134,empire_2025_AR.pdf,55,current
+Empire,2024,BS,Total current assets,3104,empire_2025_AR.pdf,55,comparative
+Empire,2025,BS,Total assets,17019,empire_2025_AR.pdf,55,current
+Empire,2024,BS,Total assets,16790,empire_2025_AR.pdf,55,comparative
+Empire,2025,BS,Total current liabilities,4096,empire_2025_AR.pdf,55,current
+Empire,2024,BS,Total current liabilities,3891,empire_2025_AR.pdf,55,comparative
+Empire,2025,BS,Total liabilities,11475,empire_2025_AR.pdf,55,current
+Empire,2024,BS,Total liabilities,11321,empire_2025_AR.pdf,55,comparative
+Empire,2025,BS,Total equity,5544,empire_2025_AR.pdf,55,current
+Empire,2024,BS,Total equity,5469,empire_2025_AR.pdf,55,comparative
+Empire,2025,BS,Total equity attributable to Owners of the Company,5410,empire_2025_AR.pdf,55,current
+Empire,2024,BS,Total equity attributable to Owners of the Company,5341,empire_2025_AR.pdf,55,comparative
+Empire,2025,CF,Cash flows from operating activities,2127,empire_2025_AR.pdf,59,current
+Empire,2024,CF,Cash flows from operating activities,2073,empire_2025_AR.pdf,59,comparative
+Empire,2025,CF,"Property, equipment and investment property purchases",640,empire_2025_AR.pdf,59,current
+Empire,2024,CF,"Property, equipment and investment property purchases",705,empire_2025_AR.pdf,59,comparative
+Empire,2025,CF,Intangible purchases,137,empire_2025_AR.pdf,59,current
+Empire,2024,CF,Intangible purchases,94,empire_2025_AR.pdf,59,comparative
+Empire,2025,CF,Payments of lease liabilities (principal portion),548,empire_2025_AR.pdf,59,current
+Empire,2024,CF,Payments of lease liabilities (principal portion),527,empire_2025_AR.pdf,59,comparative
+Empire,2023,IS,Sales,30478.1,empire_2023_AR.pdf,60,current
+Empire,2022,IS,Sales,30162.4,empire_2023_AR.pdf,60,comparative
+Empire,2023,IS,Cost of sales,22685.4,empire_2023_AR.pdf,60,current
+Empire,2022,IS,Cost of sales,22502.7,empire_2023_AR.pdf,60,comparative
+Empire,2023,IS,"Finance costs, net",267.0,empire_2023_AR.pdf,60,current
+Empire,2022,IS,"Finance costs, net",282.1,empire_2023_AR.pdf,60,comparative
+Empire,2023,IS,Earnings before income taxes,965.4,empire_2023_AR.pdf,60,current
+Empire,2022,IS,Earnings before income taxes,1081.6,empire_2023_AR.pdf,60,comparative
+Empire,2023,IS,Income tax expense,237.7,empire_2023_AR.pdf,60,current
+Empire,2022,IS,Income tax expense,270.3,empire_2023_AR.pdf,60,comparative
+Empire,2023,IS,No discontinued operations,0,empire_2023_AR.pdf,60,current
+Empire,2022,IS,No discontinued operations,0,empire_2023_AR.pdf,60,comparative
+Empire,2023,IS,Net earnings,727.7,empire_2023_AR.pdf,60,current
+Empire,2022,IS,Net earnings,811.3,empire_2023_AR.pdf,60,comparative
+Empire,2023,IS,Owners of the Company,686.0,empire_2023_AR.pdf,60,current
+Empire,2022,IS,Owners of the Company,745.8,empire_2023_AR.pdf,60,comparative
+Empire,2023,BS,Inventories,1743.3,empire_2023_AR.pdf,59,current
+Empire,2022,BS,Inventories,1591.5,empire_2023_AR.pdf,59,comparative
+Empire,2023,BS,Current assets (unlabelled subtotal),2955.0,empire_2023_AR.pdf,59,current
+Empire,2022,BS,Current assets (unlabelled subtotal),3212.7,empire_2023_AR.pdf,59,comparative
+Empire,2023,BS,Total assets (unlabelled subtotal),16483.7,empire_2023_AR.pdf,59,current
+Empire,2022,BS,Total assets (unlabelled subtotal),16593.6,empire_2023_AR.pdf,59,comparative
+Empire,2023,BS,Current liabilities (unlabelled subtotal),3857.5,empire_2023_AR.pdf,59,current
+Empire,2022,BS,Current liabilities (unlabelled subtotal),4239.7,empire_2023_AR.pdf,59,comparative
+Empire,2023,BS,Total liabilities (unlabelled subtotal),11147.0,empire_2023_AR.pdf,59,current
+Empire,2022,BS,Total liabilities (unlabelled subtotal),11459.7,empire_2023_AR.pdf,59,comparative
+Empire,2023,BS,Total equity (unlabelled subtotal),5336.7,empire_2023_AR.pdf,59,current
+Empire,2022,BS,Total equity (unlabelled subtotal),5133.9,empire_2023_AR.pdf,59,comparative
+Empire,2023,BS,Shareholders' equity before non-controlling interest (unlabelled subtotal),5200.4,empire_2023_AR.pdf,59,current
+Empire,2022,BS,Shareholders' equity before non-controlling interest (unlabelled subtotal),4991.5,empire_2023_AR.pdf,59,comparative
+Empire,2023,CF,Cash flows from operating activities,1605.3,empire_2023_AR.pdf,63,current
+Empire,2022,CF,Cash flows from operating activities,2107.1,empire_2023_AR.pdf,63,comparative
+Empire,2023,CF,"Property, equipment and investment property purchases",574.2,empire_2023_AR.pdf,63,current
+Empire,2022,CF,"Property, equipment and investment property purchases",633.0,empire_2023_AR.pdf,63,comparative
+Empire,2023,CF,Intangible purchases,183.5,empire_2023_AR.pdf,63,current
+Empire,2022,CF,Intangible purchases,147.3,empire_2023_AR.pdf,63,comparative
+Empire,2023,CF,Payments of lease liabilities (principal portion),507.6,empire_2023_AR.pdf,63,current
+Empire,2022,CF,Payments of lease liabilities (principal portion),482.8,empire_2023_AR.pdf,63,comparative
+Empire,2021,IS,Sales,28268.3,empire_2021_AR.pdf,51,current
+Empire,2020,IS,Sales,26588.2,empire_2021_AR.pdf,51,comparative
+Empire,2021,IS,Cost of sales,21069.0,empire_2021_AR.pdf,51,current
+Empire,2020,IS,Cost of sales,19954.9,empire_2021_AR.pdf,51,comparative
+Empire,2021,IS,"Finance costs, net",269.4,empire_2021_AR.pdf,51,current
+Empire,2020,IS,"Finance costs, net",279.1,empire_2021_AR.pdf,51,comparative
+Empire,2021,IS,Earnings before income taxes,1030.1,empire_2021_AR.pdf,51,current
+Empire,2020,IS,Earnings before income taxes,832.7,empire_2021_AR.pdf,51,comparative
+Empire,2021,IS,Income tax expense,265.9,empire_2021_AR.pdf,51,current
+Empire,2020,IS,Income tax expense,219.9,empire_2021_AR.pdf,51,comparative
+Empire,2021,IS,No discontinued operations,0,empire_2021_AR.pdf,51,current
+Empire,2020,IS,No discontinued operations,0,empire_2021_AR.pdf,51,comparative
+Empire,2021,IS,Net earnings,764.2,empire_2021_AR.pdf,51,current
+Empire,2020,IS,Net earnings,612.8,empire_2021_AR.pdf,51,comparative
+Empire,2021,IS,Owners of the Company,701.5,empire_2021_AR.pdf,51,current
+Empire,2020,IS,Owners of the Company,583.5,empire_2021_AR.pdf,51,comparative
+Empire,2021,BS,Inventories,1500.1,empire_2021_AR.pdf,50,current
+Empire,2020,BS,Inventories,1489.4,empire_2021_AR.pdf,50,comparative
+Empire,2021,BS,Current assets (unlabelled subtotal),3193.5,empire_2021_AR.pdf,50,current
+Empire,2020,BS,Current assets (unlabelled subtotal),3255.5,empire_2021_AR.pdf,50,comparative
+Empire,2021,BS,Total assets (unlabelled subtotal),15173.9,empire_2021_AR.pdf,50,current
+Empire,2020,BS,Total assets (unlabelled subtotal),14632.9,empire_2021_AR.pdf,50,comparative
+Empire,2021,BS,Current liabilities (unlabelled subtotal),3488.2,empire_2021_AR.pdf,50,current
+Empire,2020,BS,Current liabilities (unlabelled subtotal),4060.0,empire_2021_AR.pdf,50,comparative
+Empire,2021,BS,Total liabilities (unlabelled subtotal),10675.9,empire_2021_AR.pdf,50,current
+Empire,2020,BS,Total liabilities (unlabelled subtotal),10619.0,empire_2021_AR.pdf,50,comparative
+Empire,2021,BS,Total equity (unlabelled subtotal),4498.0,empire_2021_AR.pdf,50,current
+Empire,2020,BS,Total equity (unlabelled subtotal),4013.9,empire_2021_AR.pdf,50,comparative
+Empire,2021,BS,Shareholders' equity before non-controlling interest (unlabelled subtotal),4372.7,empire_2021_AR.pdf,50,current
+Empire,2020,BS,Shareholders' equity before non-controlling interest (unlabelled subtotal),3924.6,empire_2021_AR.pdf,50,comparative
+Empire,2021,CF,Cash flows from operating activities,1859.6,empire_2021_AR.pdf,54,current
+Empire,2020,CF,Cash flows from operating activities,2089.4,empire_2021_AR.pdf,54,comparative
+Empire,2021,CF,"Property, equipment and investment property purchases",566.3,empire_2021_AR.pdf,54,current
+Empire,2020,CF,"Property, equipment and investment property purchases",548.8,empire_2021_AR.pdf,54,comparative
+Empire,2021,CF,Additions to intangibles,92.8,empire_2021_AR.pdf,54,current
+Empire,2020,CF,Additions to intangibles,69.0,empire_2021_AR.pdf,54,comparative
+Empire,2021,CF,Payments of lease liabilities (principal portion),420.1,empire_2021_AR.pdf,54,current
+Empire,2020,CF,Payments of lease liabilities (principal portion),392.1,empire_2021_AR.pdf,54,comparative
